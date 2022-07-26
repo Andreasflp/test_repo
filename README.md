@@ -1,3 +1,3 @@
-# Github test
+# Github repository test
 
-This is a description.
+This is a description. It contains words.
